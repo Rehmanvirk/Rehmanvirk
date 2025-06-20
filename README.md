@@ -9,9 +9,9 @@
 ### 👨‍💻 About Me
 
 - 🧑‍🎓 I recently completed my studies and I'm currently on a learning path.
-- 💡 I love working with **HTML, CSS, JavaScript, and React** to build clean and user-friendly interfaces.
-- 🔍 Always exploring new technologies and improving my coding skills.
-- 🌱 Currently learning advanced React patterns, animations, and performance optimization.
+- 💡 I enjoy working with **HTML, CSS, JavaScript, and React** to create clean and user-friendly interfaces.
+- 🔍 Constantly exploring new technologies and best practices to improve my frontend skills.
+- 🌱 Currently diving deeper into React patterns, animations, and performance optimization.
 
 ---
 
@@ -27,25 +27,23 @@
 
 ---
 
-### 🚀 Projects
-
-Here are some of my featured projects:
+### 🚀 Featured Projects
 
 | Project | Tech Stack | Live Demo |
 |--------|------------|-----------|
-|  **Portfolio Website** 💼 | HTML, CSS, JS | [Play Now]([https://your-live-link.com](https://rehmanvirk.github.io/rehman-dev/)) |
-| **Chat App** ⌨️ | React, css, firebase, | [Try It]([https://your-live-link.com](https://chit-chat-zeta-seven.vercel.app/)) |
-| **Weather App** ☁️ | React, HTML, CSS, JS, API | [View Site]([https://your-live-link.com](https://sky-scanner-one.vercel.app/)) |
+| **Portfolio Website** 💼 | HTML, CSS, JS | [Visit Site](https://rehmanvirk.github.io/rehman-dev/) |
+| **Chat App** 💬 | React, CSS, Firebase | [Try It](https://chit-chat-zeta-seven.vercel.app/) |
+| **Weather App** ☁️ | React, API, HTML, CSS, JS | [Check It Out](https://sky-scanner-one.vercel.app/) |
 
-> Check out more projects in the **Pinned Repositories** section below 👇
+> 📌 Explore more in the **Pinned Repositories** section below 👇
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rehmanvirk&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanvirk&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
@@ -53,9 +51,9 @@ Here are some of my featured projects:
 ### 📫 Contact Me
 
 - 📧 Email: rehmanvirk318@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/rehmanvik)  
-- 🌐 Portfolio: [your-portfolio-link.com]([(https://your-live-link.com](https://rehmanvirk.github.io/rehman-dev/))
+- 🔗 LinkedIn: [linkedin.com/in/rehmanvik](https://www.linkedin.com/in/rehmanvik)  
+- 🌐 Portfolio: [rehmanvirk.github.io/rehman-dev](https://rehmanvirk.github.io/rehman-dev/)
 
 ---
 
-*Thanks for visiting my profile! Feel free to check out my projects and connect with me 🚀*
+<p align="center">Thanks for visiting my profile! Feel free to explore my projects and connect with me 🚀</p>
