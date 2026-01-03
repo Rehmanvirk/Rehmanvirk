@@ -1,310 +1,442 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdul%20Rehman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20JavaScript%20Developer&descAlignY=51&descAlign=50" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;API+%26+System+Integration+Expert+%F0%9F%94%97;Zoho+%7C+Google+Drive+Specialist+%E2%9A%A1" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- Social Badges with Animation -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehmanvirk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rehman1.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmanvirk318@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=rehmanvirk&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/rehmanvirk)
+<!-- Futuristic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,16,18,20&text=ABDUL%20REHMAN&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00D9FF&strokeWidth=2&desc=Full%20Stack%20JavaScript%20Engineer&descSize=25&descAlignY=65"/>
 
 </div>
 
----
-
-## 🚀 About Me
-
-```javascript
-const abdulRehman = {
-    location: "Pakistan 🇵🇰",
-    education: "Bachelor's in Computer Science 🎓",
-    currentRole: "Full Stack Developer",
-    focus: ["Backend Architecture", "API Development", "System Integrations"],
-    passion: "Solving real business problems with clean, scalable code",
-    workingOn: "Production-grade MERN applications",
-    specialization: ["REST APIs", "Authentication Systems", "Third-party Integrations"],
-    expertise: {
-        crmIntegration: "Zoho CRM API",
-        cloudStorage: "Google Drive API",
-        realTimeApps: "Firebase, WebSockets"
-    },
-    motto: "Building systems that scale, not just demos 💡"
-};
-```
-
-<div align="center">
-
-### 💼 What I Do Best
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-#### 🏗️ Backend Development
-- RESTful API design & implementation
-- Authentication & authorization (JWT, OAuth)
-- Database design & optimization
-- Server-side business logic
-- Third-party API integrations
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎨 Frontend Development
-- React.js & modern UI libraries
-- Responsive & accessible design
-- State management (Redux, Context)
-- Performance optimization
-- Real-time data updates
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technology Arsenal
-
-<div align="center">
-
-### Core Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & APIs
-
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Integrations & Cloud
-
-![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Frontend & Styling
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### Tools & Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎨 PortaGen – Portfolio Builder Platform
-
-[![PortaGen](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://portagen.vercel.app)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rehmanvirk/Portagen)
-
-**Tech Stack:** `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JSZip`
-
-A full-stack platform that empowers users to generate customizable portfolio websites with automatic ZIP export functionality.
-
-**Key Features:**
-- 🎯 Dynamic portfolio generation with live preview
-- 📦 One-click ZIP download with HTML/CSS/JS files
-- 💾 MongoDB integration for data persistence
-- 🎨 Customizable themes and layouts
-- ⚡ Fast and responsive UI
-
----
-
-### 🤖 RepoDoc.ai – AI README Generator
-
-[![RepoDoc](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://repodoc1.vercel.app)
-[![GitHub](https://img.shields.io/badge/📂_Source_Code-View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Rehmanvirk/RepoDoc)
-
-**Tech Stack:** `MERN` `Gemini AI API` `REST APIs` `GitHub API`
-
-AI-powered tool that analyzes GitHub repositories and generates comprehensive, structured README files.
-
-**Key Features:**
-- 🧠 Powered by Google's Gemini AI
-- 🔍 Repository analysis and documentation
-- ✍️ Automatic README generation
-- 🔗 GitHub API integration
-- ⚡ Real-time processing
-
----
-
-### 💬 Chat Application – Real-Time Messaging
-
-[![Chat App](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-success?style=for-the-badge)](https://chit-chat-zeta-seven.vercel.app/)
-
-**Tech Stack:** `React` `Firebase` `Real-time Database` `Authentication`
-
-A modern real-time chat application with user authentication and live messaging capabilities.
-
-**Key Features:**
-- 💬 Real-time messaging with Firebase
-- 🔐 User authentication and authorization
-- 👥 User presence indicators
-- 📱 Responsive design for all devices
-- 🎨 Clean and intuitive UI
-
-</div>
-
----
-
-## 📊 GitHub Statistics
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Backend+Architect+%7C+API+Specialist+%7C+Integration+Expert;Building+Production-Grade+Systems+with+MERN+Stack;Zoho+CRM+%E2%80%A2+Google+Drive+%E2%80%A2+Firebase+%E2%80%A2+REST+APIs" alt="Typing SVG" />
+</p>
 
 <div align="center">
   
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rehmanvirk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=ffffff"/>
+<!-- Glowing Social Links -->
+  
+[![](https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000)](https://rehman1.vercel.app)
+[![](https://img.shields.io/badge/LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/rehmanvirk)
+[![](https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:rehmanvirk318@gmail.com)
+[![](https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/rehmanvirk)
 
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanvirk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=3F8FFF&text_color=ffffff&langs_count=8"/>
-
-<!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanvirk&theme=radical&hide_border=true&background=0d1117&ring=3F8FFF&fire=3F8FFF&currStreakLabel=3F8FFF" alt="GitHub Streak"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanvirk&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=3F8FFF&line=3F8FFF&point=FFFFFF" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=rehmanvirk&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **PROFILE OVERVIEW**
+
+```yaml
+name: Abdul Rehman
+located_in: Lahore, Pakistan
+current_role: Full Stack JavaScript Developer
+company: Production Software Development
+
+education:
+  degree: Bachelor of Science
+  major: Computer Science
+  status: Graduate
+
+fields_of_interests:
+  - Backend Architecture
+  - API Development & Integration
+  - System Design
+  - Database Optimization
+  - Cloud Services Integration
+
+technical_background:
+  - RESTful API Design
+  - Authentication Systems (JWT, OAuth)
+  - Third-Party Integrations (Zoho, Google)
+  - Real-time Applications
+  - Database Design & Scaling
+  
+currently_learning:
+  - Advanced Node.js Patterns
+  - System Design at Scale
+  - Cloud Infrastructure
+  - Microservices Architecture
+
+2025_goals:
+  - Build enterprise-level applications
+  - Master distributed systems
+  - Contribute to open source
+  - Mentor junior developers
+```
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **TECH STACK**
+
+<details open>
+<summary><b>🎯 Core Technologies</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚡ Backend & APIs</b></summary>
+<br>
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node_APIs-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔌 Integrations & Cloud</b></summary>
+<br>
+
+![Zoho](https://img.shields.io/badge/Zoho_CRM-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-3C4858?style=for-the-badge&logo=oauth&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend & Styling</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Platforms</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</details>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **FEATURED PROJECTS**
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rehmanvirk&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💼 Professional Experience
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔗 System Integrations
-- Zoho CRM API implementation
-- Google Drive API integration
-- OAuth 2.0 authentication flows
-- Webhook handling & event processing
-- Data synchronization systems
+<h3 align="center">🎨 PortaGen</h3>
+
+<div align="center">  
+<a href="https://portagen.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="live"/>
+</a>
+<a href="https://github.com/Rehmanvirk/Portagen" target="_blank">
+<img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+</a>
+</div>
+
+<br>
+
+**Full-stack portfolio builder platform**
+
+Built a complete platform for generating customizable portfolio websites with automatic ZIP export functionality.
+
+**Tech Stack:**
+`React` `Node.js` `Express` `MongoDB` `Tailwind` `JSZip`
+
+**Features:**
+- ✨ Dynamic portfolio generation
+- 📦 One-click ZIP download
+- 💾 Database persistence
+- 🎨 Multiple themes
+- ⚡ Real-time preview
 
 </td>
+
 <td width="50%">
 
-### 🏗️ Architecture & Design
-- RESTful API design patterns
-- Database schema optimization
-- Scalable backend architecture
-- Microservices concepts
-- Error handling & logging
+<h3 align="center">🤖 RepoDoc.ai</h3>
+
+<div align="center">
+<a href="https://repodoc1.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="live"/>
+</a>
+<a href="https://github.com/Rehmanvirk/RepoDoc" target="_blank">
+<img src="https://img.shields.io/badge/CODE-000000?style=for-the-badge&logo=github&logoColor=white" alt="code"/>
+</a>
+</div>
+
+<br>
+
+**AI-powered README generator**
+
+Analyzes GitHub repositories and generates comprehensive documentation using AI.
+
+**Tech Stack:**
+`MERN Stack` `Gemini AI` `GitHub API` `REST APIs`
+
+**Features:**
+- 🧠 AI-powered analysis
+- 📝 Auto README generation
+- 🔍 Repository scanning
+- 🎯 Structure detection
+- ⚡ Real-time processing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">💬 Real-Time Chat</h3>
+
+<div align="center">
+<a href="https://chit-chat-zeta-seven.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/LIVE-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="live"/>
+</a>
+</div>
+
+<br>
+
+**Modern messaging application**
+
+Real-time chat platform with authentication and live messaging capabilities.
+
+**Tech Stack:**
+`React` `Firebase` `Real-time DB` `Authentication`
+
+**Features:**
+- 💬 Instant messaging
+- 🔐 User authentication
+- 👥 Online status
+- 📱 Responsive design
+- 🎨 Modern UI/UX
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🔗 More Projects</h3>
+
+<br>
+
+<div align="center">
+
+**Check out my repositories for more:**
+
+- API Integration Systems
+- Authentication Solutions  
+- Database Management Tools
+- Real-time Applications
+- Business Automation Scripts
+
+<br>
+
+<a href="https://github.com/rehmanvirk?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/VIEW_ALL-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="repos"/>
+</a>
+
+</div>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 📈 Contribution Graph
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GITHUB ANALYTICS**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rehmanvirk&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehmanvirk&theme=algolia&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanvirk&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rehmanvirk&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanvirk&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## 💼 **PROFESSIONAL EXPERTISE**
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rehmanvirk/rehmanvirk/output/github-contribution-grid-snake-dark.svg)
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🏗️ Backend Development
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+- RESTful API Design
+- Database Architecture
+- Authentication Systems
+- Server Optimization
+- Error Handling & Logging
+
+</td>
+
+<td width="33%" align="center">
+
+### 🔗 Integrations
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+- Zoho CRM API
+- Google Drive API
+- OAuth 2.0 Flows
+- Webhook Systems
+- Data Synchronization
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎯 Best Practices
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+- Clean Code Principles
+- Git Workflow
+- Code Documentation
+- Testing Strategies
+- Scalable Architecture
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 Current Focus
+## 🎯 **CURRENT FOCUS**
 
-```typescript
-interface CurrentGoals {
-    learning: string[];
-    building: string[];
-    exploring: string[];
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Abdul Rehman";
+    this.role = "Full Stack JavaScript Developer";
+    this.language = ["JavaScript", "Node.js"];
+  }
+
+  currentlyWorking() {
+    return {
+      workplace: "Production Software Development",
+      projects: ["Scalable APIs", "System Integrations", "Real-time Apps"],
+      focus: ["Backend Architecture", "API Development", "Database Design"]
+    };
+  }
+
+  learning() {
+    return [
+      "Advanced Node.js Patterns",
+      "Microservices Architecture", 
+      "System Design Principles",
+      "Cloud Infrastructure (AWS)",
+      "GraphQL & Apollo"
+    ];
+  }
+
+  openTo() {
+    return ["Full-time Roles", "Freelance Projects", "Technical Collaborations"];
+  }
 }
 
-const myGoals: CurrentGoals = {
-    learning: [
-        "Advanced Node.js patterns",
-        "GraphQL & Apollo",
-        "Docker & Kubernetes",
-        "System design principles"
-    ],
-    building: [
-        "Scalable backend systems",
-        "Production-grade APIs",
-        "Real-time applications"
-    ],
-    exploring: [
-        "Microservices architecture",
-        "Cloud infrastructure (AWS)",
-        "DevOps practices"
-    ]
-};
+const me = new Developer();
+console.log(me.currentlyWorking());
+console.log(me.learning());
 ```
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 **LET'S BUILD SOMETHING AMAZING**
 
 <div align="center">
 
-### 📫 Available For
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
 
-**Full-time opportunities** • **Serious freelance projects** • **Technical collaborations**
+<br><br>
 
-<br/>
+### 📬 Open For Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehmanvirk)
-[![Email](https://img.shields.io/badge/Email-rehmanvirk318@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmanvirk318@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rehman1.vercel.app)
+**Full-time positions • Freelance projects • Technical consulting**
 
-<br/>
+<br>
 
-### 💭 Quote of the Day
+<a href="mailto:rehmanvirk318@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL_ME-00D9FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" />
+</a>
+<a href="https://www.linkedin.com/in/rehmanvirk">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" />
+</a>
+<a href="https://rehman1.vercel.app">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000" />
+</a>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><br>
 
-</div>
+### 💡 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+
+<br>
 
 ---
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+**⭐ Star my repositories if you find them interesting!**
 
-**⭐ If you find my work interesting, consider starring some repositories!**
+<sub>Built with 💙 and ☕ by Abdul Rehman</sub>
 
-*Built with ❤️ and lots of ☕ by Abdul Rehman*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer" width="100%"/>
 
 </div>
